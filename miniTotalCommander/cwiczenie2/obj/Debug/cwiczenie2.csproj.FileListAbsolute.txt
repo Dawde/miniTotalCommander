@@ -1,0 +1,14 @@
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\bin\Debug\miniTotalCommander.resx
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\bin\Debug\miniTotalCommander.cs
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\bin\Debug\miniTotalCommander.Designer.cs
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\bin\Debug\cwiczenie2.exe.config
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\bin\Debug\cwiczenie2.exe
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\bin\Debug\cwiczenie2.pdb
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\obj\Debug\cwiczenie2.csprojResolveAssemblyReference.cache
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\obj\Debug\cwiczenie2.Form1.resources
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\obj\Debug\cwiczenie2.miniTotalCommander.resources
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\obj\Debug\cwiczenie2.Properties.Resources.resources
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\obj\Debug\cwiczenie2.csproj.GenerateResource.Cache
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\obj\Debug\cwiczenie2.csproj.CoreCompileInputs.cache
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\obj\Debug\cwiczenie2.exe
+X:\POBRANE\cwiczenie2-master(1)\cwiczenie2-master\cwiczenie2\cwiczenie2\obj\Debug\cwiczenie2.pdb
